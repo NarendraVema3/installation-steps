@@ -41,7 +41,7 @@ Requirement softwares
      
   // regular steps 
     
-      step 1 -> ionic project name theams
+      step 1 -> ionic start projectname templates
       step 2 -> cd project name
       step 3 -> ionic serve
       
