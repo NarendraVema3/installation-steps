@@ -6,7 +6,9 @@
      
 
 
+// current location r geolocation
 
+    ionic plugin add cordova-plugin-geolocation
 
 
 
