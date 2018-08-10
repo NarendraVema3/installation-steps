@@ -5,7 +5,7 @@ java script frame installation process steps
 Requirement softwares
 
 1) node js
-2) git hub
+2) git 
 3) java software
 4) visual studio code editer 
 
