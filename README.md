@@ -75,6 +75,20 @@ Requirement softwares
       step 3 ->   npm start
       
      
+     /// vue js installation steps ///
+     
+     // onetime installation in global
+     
+     // regular install
+      step1 -> vue init < project-type > < project name >
+      ex:- vue init webpack-simple lbit
+      
+      step2 -> cd project name
+      
+      step3 -> npm install
+      
+      step4 -> npm run dev
+     
      
        
     
