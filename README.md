@@ -79,6 +79,10 @@ Requirement softwares
      
      // onetime installation in global
      
+     npm install -g vue-cli
+     
+     
+     
      // regular install
       step1 -> vue init < project-type > < project name >
       ex:- vue init webpack-simple lbit
